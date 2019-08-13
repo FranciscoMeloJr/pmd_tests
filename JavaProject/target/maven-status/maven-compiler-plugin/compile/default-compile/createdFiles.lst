@@ -1,0 +1,6 @@
+com/EVBox/challenge/charging/ChargingSummary.class
+com/EVBox/challenge/charging/ChargingSessionService.class
+com/EVBox/challenge/charging/Status.class
+com/EVBox/challenge/ChargingSessionsApiApp.class
+com/EVBox/challenge/charging/ChargingSessionController.class
+com/EVBox/challenge/charging/ChargingSession.class
